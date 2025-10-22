@@ -1,7 +1,7 @@
 ---
 tags: [oneshot, dnd5e, japan, dark, template]
-players: 5
-duration: "4-5h"
+players: 2
+duration: "3-4h"
 tone: "dark-fantasy"
 ---
 
